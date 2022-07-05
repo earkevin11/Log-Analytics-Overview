@@ -7,10 +7,18 @@
 - Values can be a string or day/time value
 
 
-# Log Analytics - Queries based on time
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/177388161-bb372279-f34d-43e5-9810-aee78411c550.png" height="95%" width="95%" alt="LAW"/>
+
+<p/>
+
+
+
+# Log Analytics - Queries based on time
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177389757-40340920-a16c-4e45-942e-ca39bfc06828.png" height="95%" width="95%" alt="LAW"/>
 
 <p/>
 
