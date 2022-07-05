@@ -29,3 +29,12 @@
 <p/>
 
 
+
+
+# Log Analytics - Filterting for Data
+
+<p align="center">
+  
+<img src="" height="95%" width="95%" alt="LAW"/>
+
+<p/>
