@@ -16,6 +16,7 @@
 
 
 # Log Analytics - Queries based on time
+- Here users can view administrative activites performed such as deleting virtual machines and groups
 <p align="center">
   
 <img src="https://user-images.githubusercontent.com/104326475/177389757-40340920-a16c-4e45-942e-ca39bfc06828.png" height="95%" width="95%" alt="LAW"/>
