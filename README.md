@@ -58,3 +58,12 @@
 <img src="https://user-images.githubusercontent.com/104326475/177446858-1dd35cc8-e50a-437e-824a-442d09ebeadb.png" height="55%" width="55%" alt="LAW"/>
 
 <p/>
+
+
+# Log Analytics - Exploring the sign-in logs table 
+
+<p align="center">
+  
+<img src="" height="55%" width="55%" alt="LAW"/>
+
+<p/>
