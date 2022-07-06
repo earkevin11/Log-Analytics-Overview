@@ -81,6 +81,14 @@
 
 
 # Exploring the Azure Firewall Logs
+- AzureDiagnostics log is Azure Firewall
+- The AzureFirewall resource is streaming data to Sentinel via the LAW. 
+- Multiple resources can so ensure that when you are running AzureDiagnosts logs, filter for the resource "Azure Firewall"
+- In this example, we only enabled diagnostics for Azure Firewall
+
+
+# Some data types are just a string but what if we want to collect specific data within the string?
+- We can parse the string
 
 <p align="center">
   
