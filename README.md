@@ -78,3 +78,12 @@
 <img src="https://user-images.githubusercontent.com/104326475/177450771-7e8d4cdf-2e4e-4080-afbe-c0037644c298.png" height="125%" width="125%" alt="LAW"/>
 
 <p/>
+
+
+# Exploring the Azure Firewall Logs
+
+<p align="center">
+  
+<img src="" height="125%" width="125%" alt="LAW"/>
+
+<p/>
