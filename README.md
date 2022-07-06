@@ -36,6 +36,25 @@
 
 <p align="center">
   
-<img src="" height="95%" width="95%" alt="LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177443878-310240d7-9e59-4bc6-9a8d-f4168cfe2a2c.png" height="95%" width="95%" alt="LAW"/>
+
+<p/>
+
+
+# Log Analytics - Projection and Dynamic Data Types
+- When we want to to view the AzureActivity log, we enter AzureActivity in as a KQL
+- It will show a variety of columns but what if we want to display only a select few
+- Users can also project and manipulate columns of Dynamic Data types
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177444308-8c1fdd48-efd7-4351-90dc-7862c19c6d5f.png" height="95%" width="95%" alt="LAW"/>
+
+<p/>
+
+# Project only three columns in this log
+- This will project/show only specific columns we want to be shown
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177446858-1dd35cc8-e50a-437e-824a-442d09ebeadb.png" height="55%" width="55%" alt="LAW"/>
 
 <p/>
