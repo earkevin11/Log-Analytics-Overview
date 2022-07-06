@@ -61,9 +61,20 @@
 
 
 # Log Analytics - Exploring the sign-in logs table 
-
+- Remember that in order to work with Strings, you have to convert it to a dynamic data type. 
+- To convert it to a dynamic data type, 
 <p align="center">
   
-<img src="" height="55%" width="55%" alt="LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177450765-87e7112e-b133-4baf-83e5-d7564d385128.png" height="55%" width="55%" alt="LAW"/>
+
+<p/>
+
+# This shows the failed sign ins
+- Error code of 0 means that there was a successful sign in.
+- These codes a failed sign-ins.
+- It also shows the reason of the failed sign-ins under status
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/177450771-7e8d4cdf-2e4e-4080-afbe-c0037644c298.png" height="125%" width="125%" alt="LAW"/>
 
 <p/>
