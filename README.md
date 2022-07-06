@@ -89,9 +89,16 @@
 
 # Some data types are just a string but what if we want to collect specific data within the string?
 - We can parse the string
+- View video #213 on Udemy
 
+
+
+# Log Analytics Workspace - Security Events
+- Security Event table gets created when an event is created in Windows Event Viewer 
 <p align="center">
   
-<img src="" height="125%" width="125%" alt="LAW"/>
+<img src="https://user-images.githubusercontent.com/104326475/177461672-8eb46252-14b0-49c2-adc9-9251685af9ce.png" height="125%" width="125%" alt="LAW"/>
 
 <p/>
+
+
